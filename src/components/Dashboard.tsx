@@ -331,7 +331,7 @@ export default function Dashboard() {
 
             <div className="min-w-0 flex-1">
               <p className="truncate text-sm font-semibold">
-                Elias Mtisie
+                UMBANE
               </p>
 
               <p className="truncate text-xs text-slate-500">
@@ -412,7 +412,7 @@ export default function Dashboard() {
 
             <div className="hidden items-center gap-3 border-l border-[#29233f] pl-4 sm:flex">
               <div className="flex h-9 w-9 items-center justify-center rounded-full bg-violet-600 text-xs font-bold">
-                EM
+                Umbane Administrator
               </div>
 
               <div className="hidden xl:block">
